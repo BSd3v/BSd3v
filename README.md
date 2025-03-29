@@ -1,4 +1,5 @@
-## Hi there 👋
+[![BSd3v's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bsd3v&show_icons=true&theme=dark#gh-dark-mode-only)](#)
+[![BSd3v's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bsd3v&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://wakatime.com/@BSd3v))
 
 <!--
 **BSd3v/BSd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
